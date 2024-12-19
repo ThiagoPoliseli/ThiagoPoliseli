@@ -14,3 +14,4 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoPoliseli&show_icons=true&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoPoliseli&layout=donut)](https://github.com/ThiagoPoliseli/github-readme-stats)
 
+![Snake animation](https://github.com/ThiagoPoliseli/ThiagoPoliseli/blob/output/github-contribution-grid-snake.svg)
