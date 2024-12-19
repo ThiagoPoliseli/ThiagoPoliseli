@@ -1,5 +1,5 @@
 # Olá me chamo Thiago Poliseli 
-Sou um desenvolvedor apaixonado por tecnologia e inovação
+Sou um desenvolvedor apaixonado por tecnologia e inovação.
 <br></br>
 <div>
 <h1>Sobre min</h1>
