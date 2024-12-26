@@ -5,7 +5,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 <h1>Sobre min</h1>
 <p>
 <br>💻 Desenvolvedor </br>
-<br>🔎 Buscando melhorar back-end</br>
+<br>🔎 Buscando melhorar back-end.</br>
 <br>📍 Linguagens: HMLT | CSS | JS |Bootstrap | C/C++  </br>
 <br>📫Contato:thiagopoliseli@gmail.com || https://www.linkedin.com/in/thiago-poliseli/</br>
 </p>
