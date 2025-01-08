@@ -19,7 +19,7 @@ jobs:
       - name: Generate Snake Game
         uses: Platane/snk@v3
         with:
-          github_user_name: pedro12u
+          github_user_name: ThiagoPoliseli
           outputs: |
             dist/github-snake.svg
 
