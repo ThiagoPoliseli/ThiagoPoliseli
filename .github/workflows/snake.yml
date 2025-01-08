@@ -1,32 +1,30 @@
-name: Generate Snake Game
-
+name: Generate Snake Animation
 on:
   schedule:
-    # Executa a cada 12 horas
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Executa diariamente
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-
     steps:
-      # Clona o repositório
-      - name: Checkout Repository
+      - name: Checkout do repositório
         uses: actions/checkout@v3
 
-      # Gera a animação da cobrinha
-      - name: Generate Snake Game
-        uses: Platane/snk@v3
+      - name: Configuração do Python
+        uses: actions/setup-python@v4
         with:
-          github_user_name: ThiagoPoliseli
-          outputs: |
-            dist/github-snake.svg
+          python-version: '3.x'
 
-      # Publica os arquivos gerados na branch 'output'
-      - name: Deploy Snake Animation
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Executar script para gerar a animação
+        run: |
+          python3 generate_github_snake.py
+          mv github-snake.svg saída/github-snake.svg
+
+      - name: Fazer upload do arquivo gerado
+        uses: actions/upload-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
+          name: github-snake
+          path: saída/github-snake.svg
