@@ -15,3 +15,4 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, criação e resolu�
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoPoliseli&layout=donut)](https://github.com/ThiagoPoliseli/github-readme-stats)
 
 ![Snake animation](https://github.com/ThiagoPoliseli/ThiagoPoliseli/blob/output/github-snake.svg)
+![Snake Animation](https://github.com/ThiagoPoliseli/ThiagoPoliseli/blob/main/saída/github-snake.svg)
