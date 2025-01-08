@@ -16,3 +16,5 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, criação e resolu�
 
 ![Snake animation](https://github.com/ThiagoPoliseli/ThiagoPoliseli/blob/output/github-snake.svg)
 ![Snake Animation](https://github.com/ThiagoPoliseli/ThiagoPoliseli/blob/main/saída/github-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/<seu-usuario>/<seu-repositorio>/main/saída/github-snake.svg)
+
