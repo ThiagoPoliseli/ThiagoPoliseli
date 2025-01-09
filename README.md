@@ -1,7 +1,8 @@
 # Olá me chamo Thiago Poliseli 
 Sou um desenvolvedor apaixonado por tecnologia e inovação, criação e resolução.
-<br></br>
+<br>
 https://thiagopoliseli.github.io/Portifolio/
+</br>
 https://curriculothiagopoliseli.my.canva.site/
 <br></br>
 <div>
