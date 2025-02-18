@@ -10,7 +10,7 @@ https://curriculothiagopoliseli.my.canva.site/
 <p>
 <br>💻 Desenvolvedor Front-End </br>
 <br>🔎 Buscando melhorar back-end</br>
-<br>📍 Linguagens, Bibliotecas e Frameworks: HMLT | CSS | JS |Bootstrap | C/C++  </br>
+<br>📍 Linguagens, Bibliotecas e Frameworks: HMLT | CSS | JS |Bootstrap | React | C/C++  </br>
 <br>📫Contato:thiagopoliseli@gmail.com || https://www.linkedin.com/in/thiago-poliseli/.</br>
 </p>
 </div>
