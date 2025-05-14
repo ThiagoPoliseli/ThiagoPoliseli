@@ -2,7 +2,9 @@
 ### Desenvolvedor Front-End | Entusiasta de Tecnologia e Soluções Inovadoras  
 
 Olá! Meu nome é Thiago Poliseli e sou um desenvolvedor Front-End apaixonado por construir interfaces digitais funcionais e impactantes. Com uma base sólida em desenvolvimento web e um interesse crescente em Back-End, busco constantemente aprimorar minhas habilidades e entregar projetos de alta qualidade que unam técnica, design e inovação
+
 ---
+
 ## 🚀 Sobre Mim  
 - 💻 **Especialização**: Desenvolvimento Front-End  
 - 🔍 **Em evolução**: Expandindo conhecimentos em Back-End  
